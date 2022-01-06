@@ -6,7 +6,7 @@ import os as os
 
 ############################################################################################
 ############################################################################################
-#  AUTOR: @Opvistar (Tweeter)
+#  AUTOR: @Opvistar (Twitter)
 #  DATA: 07.04.2020
 #  ESSE SCRIPT LE OS ARQUIVOS DO PYTHON E ATUALIZA SEUS VALORES
 #  DE PRECO DE FECHAMENTO DIÁRIOS
