@@ -1,5 +1,5 @@
 ﻿# =============================================================================
-# Autor: @opvistar (Twetter) - Abril - 2020
+# Autor: @opvistar (Twitter) - Abril - 2020
 # Processa cointegração entre os ativos da B3
 # 
 # history
