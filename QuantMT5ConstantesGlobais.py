@@ -1,5 +1,5 @@
 ﻿# =============================================================================
-#  AUTOR: @Opvistar (Tweeter)
+#  AUTOR: @Opvistar (Twitter)
 # Arquivo com as constantes globais de configuração 
 # =============================================================================
 
