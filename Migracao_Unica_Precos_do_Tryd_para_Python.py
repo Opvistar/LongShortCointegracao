@@ -5,7 +5,7 @@ import os as os
 
 ############################################################################################
 ############################################################################################
-#  AUTOR: @Opvistar (Tweeter)
+#  AUTOR: @Opvistar (Twitter)
 #  DATA: 07.04.2020
 #  ESSE SCRIPT LE OS ARQUIVOS DO TRYD E GERA 
 #  O BANCO DE DADOS PARA USAR NOS SCRIPT DE LONG-SHORT
